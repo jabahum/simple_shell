@@ -1,6 +1,6 @@
-# Holberton Shell - a simple shell
+# ALX  Shell - a simple shell
 
-##### Holberton Shell (hsh) is a simple command line shell for OS X and Linux. Hsh includes most basic features present in the bash shell. This shell was built as a project for Holberton School.
+##### ALX Shell (hsh) is a simple command line shell for OS X and Linux. Hsh includes most basic features present in the bash shell. This shell was built as a project for ALX School.
 
 #### Quick Start
 
